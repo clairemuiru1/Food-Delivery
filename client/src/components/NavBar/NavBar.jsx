@@ -18,7 +18,9 @@ function NavBar() {
         <img src={search_icon} alt=''/>
         <div className="navbar-serch-icon">
             <img src={basket_icon} alt=''/>
+            <div className="dot"></div>
         </div>
+        <button>Sign In</button>
       </div>
     </div>
   );
