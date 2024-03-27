@@ -38,7 +38,7 @@ Order tracking
    npm run dev
 
 ## author
-muirucliare@gmail.com
+muiruclaire@gmail.com
 
 
 
